@@ -160,7 +160,7 @@ async function build() {
 
   heading("Experience")
   draw("Software Engineer, Code Upscale", { x: margin, y, size: 10.5, font: bold, color: ink })
-  const period = "Jan 2024 - Present"
+  const period = "Jul 2024mmm - Present"
   draw(period, {
     x: pageSize[0] - margin - regular.widthOfTextAtSize(period, 9),
     y,
