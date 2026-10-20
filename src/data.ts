@@ -1,5 +1,6 @@
 import cervelloImg from "./assets/CERVELLO.PNG"
 import cervelloGlobalImg from "./assets/cervelloGlobal.PNG"
+import ciataImg from "./assets/ciata.png"
 import strataImg from "./assets/stratasfr.PNG"
 import taxTrackerImg from "./assets/taxtracker.PNG"
 import christopherImg from "./assets/with cristopher.jpg"
@@ -160,7 +161,7 @@ export const projects = [
     period: "Apr 2024 — Aug 2024",
     url: null,
     urlLabel: null,
-    image: null,
+    image: ciataImg,
     summary:
       "Multi-role, AI-powered mental health platform delivering CBT-style conversations through a real-time chat interface for therapists, patients, and admins.",
     points: [
@@ -175,7 +176,7 @@ export const projects = [
 export const experience = {
   title: "Software Engineer",
   company: "Code Upscale",
-  period: "Jan 2024 — Present",
+  period: "Jul 2024 — Present",
   note: "Delivered client products as part of a product engineering team, owning features from design through deployment.",
 }
 
